@@ -1,7 +1,15 @@
 const app = document.getElementById("app");
 
+// Deploy stamps the commit into index.html (`app.js?v=<sha>`); every asset URL carries it so phones refetch after a deploy.
+const stamp = new URL(import.meta.url).searchParams.get("v");
+const VERSION = stamp && stamp !== "__V__" ? stamp : "dev";
+
+function versioned(path) {
+  return `${path}?v=${VERSION}`;
+}
+
 async function loadJson(path) {
-  const res = await fetch(path);
+  const res = await fetch(versioned(path));
   if (!res.ok) throw new Error(`${path}: ${res.status}`);
   return res.json();
 }
@@ -21,6 +29,10 @@ const DEVANAGARI = /[ऀ-ॿ]/;
 
 function textEl(text, cls) {
   return el("div", { class: DEVANAGARI.test(text) ? `${cls} deva` : cls }, text);
+}
+
+function photoEl(card) {
+  return el("img", { class: "photo", src: versioned(card.image), alt: card.front, draggable: "false" });
 }
 
 function shuffled(items) {
@@ -51,7 +63,8 @@ async function showMenu() {
           el("span", { class: "muted" }, `${deck.cards.length} cards${deck.description ? " · " + deck.description : ""}`)
         )
       )
-    )
+    ),
+    el("p", { class: "muted version" }, `version ${VERSION}`)
   );
 }
 
@@ -70,7 +83,7 @@ async function showDeck(id) {
           ...[card.back].flat().map((text, i) => textEl(text, i === 0 ? "main" : "main sub")),
           card.note ? textEl(card.note, "note") : null,
         ]
-      : [textEl(card.front, "main")];
+      : [card.image ? photoEl(card) : textEl(card.front, "main")];
 
     app.replaceChildren(
       el(

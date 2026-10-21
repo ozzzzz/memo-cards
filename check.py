@@ -4,7 +4,8 @@ import json
 import sys
 from pathlib import Path
 
-DATA = Path(__file__).parent / "data"
+ROOT = Path(__file__).parent
+DATA = ROOT / "data"
 MANIFEST = DATA / "manifest.json"
 
 
@@ -44,7 +45,13 @@ def check_deck(name: str, deck, errors: list[str]) -> None:
             errors.append(f"{where}: 'back' must be a non-empty string or list of non-empty strings")
         if "note" in card and not isinstance(card["note"], str):
             errors.append(f"{where}: 'note' must be a string")
-        extra = set(card) - {"front", "back", "note"}
+        if "image" in card:
+            image = card["image"]
+            if not isinstance(image, str) or not image:
+                errors.append(f"{where}: 'image' must be a non-empty string")
+            elif not (ROOT / image).is_file():
+                errors.append(f"{where}: image {image!r} not found")
+        extra = set(card) - {"front", "back", "note", "image"}
         if extra:
             errors.append(f"{where}: unknown keys {sorted(extra)}")
         front = card.get("front")

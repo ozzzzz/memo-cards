@@ -1,0 +1,198 @@
+{
+  "title": "Yoga asanas",
+  "description": "alignment keys from the YTTC workbook (Ведение практики)",
+  "cards": [
+    {
+      "front": "Ардха Уттанасана",
+      "back": [
+        "Ардха Уттанасана",
+        "Ключ: равномерный прогиб"
+      ],
+      "note": "Ardha Uttānāsana",
+      "image": "img/yoga/ardha-uttanasana.webp"
+    },
+    {
+      "front": "Уткатасана",
+      "back": [
+        "Уткатасана",
+        "Ключ: плечи изолированно подаются вниз"
+      ],
+      "note": "Utkaṭāsana",
+      "image": "img/yoga/utkatasana.webp"
+    },
+    {
+      "front": "Врикшасана",
+      "back": [
+        "Врикшасана",
+        "Ключ: плоская форма"
+      ],
+      "note": "Vṛkṣāsana",
+      "image": "img/yoga/vrikshasana.webp"
+    },
+    {
+      "front": "Рудрасана",
+      "back": [
+        "Рудрасана",
+        "Ключ: колени и стопы сонаправлены"
+      ],
+      "note": "Rudrāsana",
+      "image": "img/yoga/rudrasana.webp"
+    },
+    {
+      "front": "Чатуранга дандасана",
+      "back": [
+        "Чатуранга дандасана",
+        "Ключ: копчик подкручен"
+      ],
+      "note": "Chaturaṅga Daṇḍāsana",
+      "image": "img/yoga/chaturanga-dandasana.webp"
+    },
+    {
+      "front": "Бакасана",
+      "back": [
+        "Бакасана",
+        "Ключ: упор коленями в подмышечные впадины"
+      ],
+      "note": "Bakāsana",
+      "image": "img/yoga/bakasana.webp"
+    },
+    {
+      "front": "Аштанга Намаскарасана",
+      "back": [
+        "Аштанга Намаскарасана",
+        "Ключ: ладони под локтями"
+      ],
+      "note": "Aṣṭāṅga Namaskārāsana",
+      "image": "img/yoga/ashtanga-namaskarasana.webp"
+    },
+    {
+      "front": "Супта Пашчимоттанасана",
+      "back": [
+        "Супта Пашчимоттанасана",
+        "Ключ: плечевые суставы прижаты"
+      ],
+      "note": "Supta Paścimottānāsana",
+      "image": "img/yoga/supta-paschimottanasana.webp"
+    },
+    {
+      "front": "Ардха чатуранга дандасана 1",
+      "back": [
+        "Ардха чатуранга дандасана 1"
+      ],
+      "note": "Ardha Chaturaṅga Daṇḍāsana 1",
+      "image": "img/yoga/ardha-chaturanga-dandasana-1.webp"
+    },
+    {
+      "front": "Ардха чатуранга дандасана 2",
+      "back": [
+        "Ардха чатуранга дандасана 2"
+      ],
+      "note": "Ardha Chaturaṅga Daṇḍāsana 2",
+      "image": "img/yoga/ardha-chaturanga-dandasana-2.webp"
+    },
+    {
+      "front": "Ардха чатуранга дандасана 3",
+      "back": [
+        "Ардха чатуранга дандасана 3"
+      ],
+      "note": "Ardha Chaturaṅga Daṇḍāsana 3",
+      "image": "img/yoga/ardha-chaturanga-dandasana-3.webp"
+    },
+    {
+      "front": "Ардха чатуранга дандасана 4",
+      "back": [
+        "Ардха чатуранга дандасана 4"
+      ],
+      "note": "Ardha Chaturaṅga Daṇḍāsana 4",
+      "image": "img/yoga/ardha-chaturanga-dandasana-4.webp"
+    },
+    {
+      "front": "Ардха чатуранга дандасана 5",
+      "back": [
+        "Ардха чатуранга дандасана 5"
+      ],
+      "note": "Ardha Chaturaṅga Daṇḍāsana 5",
+      "image": "img/yoga/ardha-chaturanga-dandasana-5.webp"
+    },
+    {
+      "front": "Чатуранга дандасана 1",
+      "back": [
+        "Чатуранга дандасана 1"
+      ],
+      "note": "Chaturaṅga Daṇḍāsana 1",
+      "image": "img/yoga/chaturanga-dandasana-1.webp"
+    },
+    {
+      "front": "Чатуранга дандасана 2",
+      "back": [
+        "Чатуранга дандасана 2"
+      ],
+      "note": "Chaturaṅga Daṇḍāsana 2 (нижний упор)",
+      "image": "img/yoga/chaturanga-dandasana-2.webp"
+    },
+    {
+      "front": "Чатуранга дандасана 3",
+      "back": [
+        "Чатуранга дандасана 3"
+      ],
+      "note": "Chaturaṅga Daṇḍāsana 3",
+      "image": "img/yoga/chaturanga-dandasana-3.webp"
+    },
+    {
+      "front": "Эка пада аштанга намаскарасана",
+      "back": [
+        "Эка пада аштанга намаскарасана"
+      ],
+      "note": "Eka Pāda Aṣṭāṅga Namaskārāsana",
+      "image": "img/yoga/eka-pada-ashtanga-namaskarasana.webp"
+    },
+    {
+      "front": "Трианга дандасана",
+      "back": [
+        "Трианга дандасана"
+      ],
+      "note": "Tryaṅga Daṇḍāsana",
+      "image": "img/yoga/triyanga-dandasana.webp"
+    },
+    {
+      "front": "Бидаласана",
+      "back": [
+        "Бидаласана"
+      ],
+      "note": "Biḍālāsana (кошка в силовом варианте)",
+      "image": "img/yoga/bidalasana.webp"
+    },
+    {
+      "front": "Ардха адхо мукха шванасана",
+      "back": [
+        "Ардха адхо мукха шванасана"
+      ],
+      "note": "Ardha Adho Mukha Śvānāsana",
+      "image": "img/yoga/ardha-adho-mukha-shvanasana.webp"
+    },
+    {
+      "front": "Эка пада ардха адхо мукха шванасана",
+      "back": [
+        "Эка пада ардха адхо мукха шванасана"
+      ],
+      "note": "Eka Pāda Ardha Adho Mukha Śvānāsana",
+      "image": "img/yoga/eka-pada-ardha-adho-mukha-shvanasana.webp"
+    },
+    {
+      "front": "Адхо мукха шванасана 1",
+      "back": [
+        "Адхо мукха шванасана 1"
+      ],
+      "note": "Adho Mukha Śvānāsana 1",
+      "image": "img/yoga/adho-mukha-shvanasana-1.webp"
+    },
+    {
+      "front": "Адхо мукха шванасана 2",
+      "back": [
+        "Адхо мукха шванасана 2"
+      ],
+      "note": "Adho Mukha Śvānāsana 2",
+      "image": "img/yoga/adho-mukha-shvanasana-2.webp"
+    }
+  ]
+}

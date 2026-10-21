@@ -10,7 +10,7 @@ Static flashcards. No build step. Plain HTML + ES module.
    {
      "title": "Shown in menu",
      "description": "optional",
-     "cards": [{ "front": "...", "back": "..." or ["line 1", "line 2"], "note": "optional" }]
+     "cards": [{ "front": "...", "back": "..." or ["line 1", "line 2"], "note": "optional", "image": "img/x.webp (optional, replaces the text of the front)" }]
    }
    ```
 
@@ -32,5 +32,7 @@ just serve   # http://localhost:8000
 ## Deploy
 
 GitHub Actions (`.github/workflows/pages.yml`): every push and PR runs `check.py` and `node --check app.js`. Push to `main` then deploys to GitHub Pages.
+
+Cache busting: the deploy replaces `__V__` in `index.html` with the short commit SHA. `app.js`, `style.css`, data and images are requested with `?v=<sha>`, so phones refetch after each deploy. The menu footer shows the version (`dev` locally).
 
 One-time setup: repo Settings → Pages → Source: **GitHub Actions**. For a custom subdomain, add a `CNAME` file (copied into the deploy) and a DNS CNAME record pointing to `<user>.github.io`.

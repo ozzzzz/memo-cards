@@ -98,6 +98,7 @@ button:hover, a.btn:hover { border-color: var(--accent); }
 }
 .card .main.deva { font-size: 4.5rem; }
 .card .main.sub { font-size: 1.8rem; }
+.card .photo { max-width: 100%; max-height: 40dvh; object-fit: contain; }
 .card .note { color: var(--muted); white-space: pre-line; }
 
 .controls {
@@ -107,3 +108,5 @@ button:hover, a.btn:hover { border-color: var(--accent); }
   margin-top: 16px;
 }
 .controls .count { align-self: center; color: var(--muted); }
+
+.version { margin-top: 24px; font-size: 0.8rem; text-align: center; }
