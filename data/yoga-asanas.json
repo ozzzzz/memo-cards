@@ -193,6 +193,71 @@
       ],
       "note": "Adho Mukha Śvānāsana 2",
       "image": "img/yoga/adho-mukha-shvanasana-2.webp"
+    },
+    {
+      "front": "Эка пада адхо мукха шванасана 1",
+      "back": [
+        "Эка пада адхо мукха шванасана 1"
+      ],
+      "note": "Eka Pāda Adho Mukha Śvānāsana 1",
+      "image": "img/yoga/eka-pada-adho-mukha-shvanasana-1.webp"
+    },
+    {
+      "front": "Эка пада адхо мукха шванасана 2",
+      "back": [
+        "Эка пада адхо мукха шванасана 2"
+      ],
+      "note": "Eka Pāda Adho Mukha Śvānāsana 2",
+      "image": "img/yoga/eka-pada-adho-mukha-shvanasana-2.webp"
+    },
+    {
+      "front": "Трианга дандасана (нога вверх)",
+      "back": [
+        "Трианга дандасана (нога вверх)"
+      ],
+      "note": "Tryaṅga Daṇḍāsana",
+      "image": "img/yoga/triyanga-dandasana-leg-up.webp"
+    },
+    {
+      "front": "Паривритта адхо мукха шванасана",
+      "back": [
+        "Паривритта адхо мукха шванасана"
+      ],
+      "note": "Parivṛtta Adho Mukha Śvānāsana",
+      "image": "img/yoga/parivritta-adho-mukha-shvanasana.webp"
+    },
+    {
+      "front": "Эка пада эка хаста адхо мукха шванасана",
+      "back": [
+        "Эка пада эка хаста адхо мукха шванасана"
+      ],
+      "note": "Eka Pāda Eka Hasta Adho Mukha Śvānāsana",
+      "image": "img/yoga/eka-pada-eka-hasta-adho-mukha-shvanasana.webp"
+    },
+    {
+      "front": "Урдхва мукха шванасана 1",
+      "back": [
+        "Урдхва мукха шванасана 1"
+      ],
+      "note": "Ūrdhva Mukha Śvānāsana 1 (собака мордой вверх)",
+      "image": "img/yoga/urdhva-mukha-shvanasana-1.webp"
+    },
+    {
+      "front": "Урдхва мукха шванасана 2",
+      "back": [
+        "Урдхва мукха шванасана 2"
+      ],
+      "note": "Ūrdhva Mukha Śvānāsana 2 (собака мордой вверх)",
+      "image": "img/yoga/urdhva-mukha-shvanasana-2.webp"
+    },
+    {
+      "front": "Марджариасана 1",
+      "back": [
+        "Марджариасана 1"
+      ],
+      "note": "Mārjāryāsana 1 (поза потягивающейся кошки)",
+      "image": "img/yoga/marjariasana-1.webp"
     }
-  ]
+  ],
+  "start": 24
 }

@@ -31,6 +31,10 @@ def check_deck(name: str, deck, errors: list[str]) -> None:
     if not isinstance(cards, list) or not cards:
         errors.append(f"{name}: 'cards' must be a non-empty list")
         return
+    if "start" in deck and (
+        not isinstance(deck["start"], int) or isinstance(deck["start"], bool) or not 1 <= deck["start"] <= len(cards)
+    ):
+        errors.append(f"{name}: 'start' must be an integer between 1 and {len(cards)}")
     seen = set()
     for i, card in enumerate(cards, 1):
         where = f"{name} card #{i}"
