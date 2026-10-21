@@ -73,7 +73,7 @@ async function showDeck(id) {
   document.title = `${deck.title} · Memo Cards`;
 
   let cards = deck.cards;
-  let index = 0;
+  let index = (deck.start ?? 1) - 1;
   let flipped = false;
 
   const render = () => {
