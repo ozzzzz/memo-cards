@@ -385,7 +385,135 @@
       ],
       "note": "Vasiṣṭhāsana 3",
       "image": "img/yoga/vasishthasana-3.webp"
+    },
+    {
+      "front": "Васиштхасана 4",
+      "back": [
+        "Васиштхасана 4"
+      ],
+      "note": "Vasiṣṭhāsana 4",
+      "image": "img/yoga/vasishthasana-4.webp"
+    },
+    {
+      "front": "Вишвамитрасана",
+      "back": [
+        "Вишвамитрасана"
+      ],
+      "note": "Viśvāmitrāsana",
+      "image": "img/yoga/vishvamitrasana.webp"
+    },
+    {
+      "front": "Ардха вишвамитрасана",
+      "back": [
+        "Ардха вишвамитрасана"
+      ],
+      "note": "Ardha Viśvāmitrāsana",
+      "image": "img/yoga/ardha-vishvamitrasana.webp"
+    },
+    {
+      "front": "Ардха рудра вишвамитрасана",
+      "back": [
+        "Ардха рудра вишвамитрасана"
+      ],
+      "note": "Ardha Rudra Viśvāmitrāsana",
+      "image": "img/yoga/ardha-rudra-vishvamitrasana.webp"
+    },
+    {
+      "front": "Ардха пурвоттанасана",
+      "back": [
+        "Ардха пурвоттанасана"
+      ],
+      "note": "Ardha Pūrvottānāsana",
+      "image": "img/yoga/ardha-purvottanasana.webp"
+    },
+    {
+      "front": "Эка пада ардха пурвоттанасана 1",
+      "back": [
+        "Эка пада ардха пурвоттанасана 1"
+      ],
+      "note": "Eka Pāda Ardha Pūrvottānāsana 1",
+      "image": "img/yoga/eka-pada-ardha-purvottanasana-1.webp"
+    },
+    {
+      "front": "Эка пада ардха пурвоттанасана 2",
+      "back": [
+        "Эка пада ардха пурвоттанасана 2"
+      ],
+      "note": "Eka Pāda Ardha Pūrvottānāsana 2",
+      "image": "img/yoga/eka-pada-ardha-purvottanasana-2.webp"
+    },
+    {
+      "front": "Эка пада ардха пурвоттанасана 3",
+      "back": [
+        "Эка пада ардха пурвоттанасана 3"
+      ],
+      "note": "Eka Pāda Ardha Pūrvottānāsana 3",
+      "image": "img/yoga/eka-pada-ardha-purvottanasana-3.webp"
+    },
+    {
+      "front": "Эка пада эка хаста ардха пурвоттанасана",
+      "back": [
+        "Эка пада эка хаста ардха пурвоттанасана"
+      ],
+      "note": "Eka Pāda Eka Hasta Ardha Pūrvottānāsana",
+      "image": "img/yoga/eka-pada-eka-hasta-ardha-purvottanasana.webp"
+    },
+    {
+      "front": "Пурвоттанасана 1",
+      "back": [
+        "Пурвоттанасана 1"
+      ],
+      "note": "Pūrvottānāsana 1",
+      "image": "img/yoga/purvottanasana-1.webp"
+    },
+    {
+      "front": "Пурвоттанасана 2",
+      "back": [
+        "Пурвоттанасана 2"
+      ],
+      "note": "Pūrvottānāsana 2",
+      "image": "img/yoga/purvottanasana-2.webp"
+    },
+    {
+      "front": "Сету бандха сарвангасана",
+      "back": [
+        "Сету бандха сарвангасана"
+      ],
+      "note": "Setu Bandha Sarvāṅgāsana",
+      "image": "img/yoga/setu-bandha-sarvangasana.webp"
+    },
+    {
+      "front": "Сету бандхасана",
+      "back": [
+        "Сету бандхасана"
+      ],
+      "note": "Setu Bandhāsana (железный мост)",
+      "image": "img/yoga/setu-bandhasana.webp"
+    },
+    {
+      "front": "Дви пада питхасана",
+      "back": [
+        "Дви пада питхасана"
+      ],
+      "note": "Dvi Pāda Pīṭhāsana (полумост, двуногий стол)",
+      "image": "img/yoga/dvi-pada-pitasana-1.webp"
+    },
+    {
+      "front": "Дви пада питхасана 2",
+      "back": [
+        "Дви пада питхасана 2"
+      ],
+      "note": "Dvi Pāda Pīṭhāsana 2",
+      "image": "img/yoga/dvi-pada-pitasana-2.webp"
+    },
+    {
+      "front": "Уштрасана",
+      "back": [
+        "Уштрасана"
+      ],
+      "note": "Uṣṭrāsana",
+      "image": "img/yoga/ushtrasana.webp"
     }
   ],
-  "start": 32
+  "start": 48
 }
