@@ -99,7 +99,7 @@ button:hover, a.btn:hover { border-color: var(--accent); }
 .card .main.deva { font-size: 4.5rem; }
 .card .main.sub { font-size: 1.8rem; }
 .card .photo { max-width: 100%; max-height: 40dvh; object-fit: contain; }
-.card .note { color: var(--muted); }
+.card .note { color: var(--muted); white-space: pre-line; }
 
 .controls {
   display: flex;
