@@ -16,8 +16,6 @@ Static flashcards. No build step. Plain HTML + ES module.
 
 2. Add `"<name>.json"` to `data/manifest.json`.
 
-Optional deck field `"start": N` opens the deck at card N (1-based). Testing aid, remove when done.
-
 Deck URL: `#<name>`.
 
 ## Commands
