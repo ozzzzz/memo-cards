@@ -23,6 +23,10 @@ function textEl(text, cls) {
   return el("div", { class: DEVANAGARI.test(text) ? `${cls} deva` : cls }, text);
 }
 
+function photoEl(card) {
+  return el("img", { class: "photo", src: card.image, alt: card.front, draggable: "false" });
+}
+
 function shuffled(items) {
   const out = [...items];
   for (let i = out.length - 1; i > 0; i--) {
@@ -70,7 +74,7 @@ async function showDeck(id) {
           ...[card.back].flat().map((text, i) => textEl(text, i === 0 ? "main" : "main sub")),
           card.note ? textEl(card.note, "note") : null,
         ]
-      : [textEl(card.front, "main")];
+      : [card.image ? photoEl(card) : textEl(card.front, "main")];
 
     app.replaceChildren(
       el(

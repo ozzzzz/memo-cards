@@ -10,7 +10,7 @@ Static flashcards. No build step. Plain HTML + ES module.
    {
      "title": "Shown in menu",
      "description": "optional",
-     "cards": [{ "front": "...", "back": "..." or ["line 1", "line 2"], "note": "optional" }]
+     "cards": [{ "front": "...", "back": "..." or ["line 1", "line 2"], "note": "optional", "image": "img/x.webp (optional, replaces the text of the front)" }]
    }
    ```
 
