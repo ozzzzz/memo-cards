@@ -155,11 +155,11 @@
       "image": "img/yoga/triyanga-dandasana.webp"
     },
     {
-      "front": "Бидаласана",
+      "front": "Бидаласана (кошка в силовом варианте)",
       "back": [
-        "Бидаласана"
+        "Бидаласана (кошка в силовом варианте)"
       ],
-      "note": "Biḍālāsana (кошка в силовом варианте)",
+      "note": "Biḍālāsana",
       "image": "img/yoga/bidalasana.webp"
     },
     {
@@ -257,7 +257,135 @@
       ],
       "note": "Mārjāryāsana 1 (поза потягивающейся кошки)",
       "image": "img/yoga/marjariasana-1.webp"
+    },
+    {
+      "front": "Эка пада эка хаста марджариасана 1",
+      "back": [
+        "Эка пада эка хаста марджариасана 1"
+      ],
+      "note": "Eka Pāda Eka Hasta Mārjāryāsana 1",
+      "image": "img/yoga/eka-pada-eka-hasta-marjariasana-1.webp"
+    },
+    {
+      "front": "Ардха бхека марджариасана",
+      "back": [
+        "Ардха бхека марджариасана"
+      ],
+      "note": "Ardha Bheka Mārjāryāsana",
+      "image": "img/yoga/ardha-bheka-marjariasana.webp"
+    },
+    {
+      "front": "Ардха дхануру марджариасана",
+      "back": [
+        "Ардха дхануру марджариасана"
+      ],
+      "note": "Ardha Dhanur Mārjāryāsana",
+      "image": "img/yoga/ardha-dhanura-marjariasana.webp"
+    },
+    {
+      "front": "Вичитра ардха чандрасана",
+      "back": [
+        "Вичитра ардха чандрасана"
+      ],
+      "note": "Vicitra Ardha Candrāsana",
+      "image": "img/yoga/vichitra-ardha-chandrasana.webp"
+    },
+    {
+      "front": "Паривритта марджариасана",
+      "back": [
+        "Паривритта марджариасана"
+      ],
+      "note": "Parivṛtta Mārjāryāsana",
+      "image": "img/yoga/parivritta-marjariasana.webp"
+    },
+    {
+      "front": "Бидаласана (кошка)",
+      "back": [
+        "Бидаласана (кошка)"
+      ],
+      "note": "Biḍālāsana",
+      "image": "img/yoga/bidalasana-cat.webp"
+    },
+    {
+      "front": "Марджариасана 2",
+      "back": [
+        "Марджариасана 2"
+      ],
+      "note": "Mārjāryāsana 2",
+      "image": "img/yoga/marjariasana-2.webp"
+    },
+    {
+      "front": "Вичитра анантасана 1",
+      "back": [
+        "Вичитра анантасана 1"
+      ],
+      "note": "Vicitra Anantāsana 1",
+      "image": "img/yoga/vichitra-anantasana-1.webp"
+    },
+    {
+      "front": "Вичитра анантасана 2",
+      "back": [
+        "Вичитра анантасана 2"
+      ],
+      "note": "Vicitra Anantāsana 2",
+      "image": "img/yoga/vichitra-anantasana-2.webp"
+    },
+    {
+      "front": "Вичитра анантасана 3",
+      "back": [
+        "Вичитра анантасана 3"
+      ],
+      "note": "Vicitra Anantāsana 3",
+      "image": "img/yoga/vichitra-anantasana-3.webp"
+    },
+    {
+      "front": "Анантасана",
+      "back": [
+        "Анантасана"
+      ],
+      "note": "Anantāsana",
+      "image": "img/yoga/anantasana.webp"
+    },
+    {
+      "front": "Васиштхасана 1",
+      "back": [
+        "Васиштхасана 1"
+      ],
+      "note": "Vasiṣṭhāsana 1 (боковой упор)",
+      "image": "img/yoga/vasishthasana-1.webp"
+    },
+    {
+      "front": "Вичитра васиштхасана 1",
+      "back": [
+        "Вичитра васиштхасана 1"
+      ],
+      "note": "Vicitra Vasiṣṭhāsana 1",
+      "image": "img/yoga/vichitra-vasishthasana-1.webp"
+    },
+    {
+      "front": "Вичитра васиштхасана 2",
+      "back": [
+        "Вичитра васиштхасана 2"
+      ],
+      "note": "Vicitra Vasiṣṭhāsana 2",
+      "image": "img/yoga/vichitra-vasishthasana-2.webp"
+    },
+    {
+      "front": "Васиштхасана 2",
+      "back": [
+        "Васиштхасана 2"
+      ],
+      "note": "Vasiṣṭhāsana 2",
+      "image": "img/yoga/vasishthasana-2.webp"
+    },
+    {
+      "front": "Васиштхасана 3",
+      "back": [
+        "Васиштхасана 3"
+      ],
+      "note": "Vasiṣṭhāsana 3",
+      "image": "img/yoga/vasishthasana-3.webp"
     }
   ],
-  "start": 24
+  "start": 32
 }
