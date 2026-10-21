@@ -513,7 +513,47 @@
       ],
       "note": "Uṣṭrāsana",
       "image": "img/yoga/ushtrasana.webp"
+    },
+    {
+      "front": "Урдхва дхануразана",
+      "back": [
+        "Урдхва дхануразана"
+      ],
+      "note": "Ūrdhva Dhanurāsana",
+      "image": "img/yoga/urdhva-dhanurasana.webp"
+    },
+    {
+      "front": "Урдхва дхануразана 2",
+      "back": [
+        "Урдхва дхануразана 2"
+      ],
+      "note": "Ūrdhva Dhanurāsana 2 (поза моста)",
+      "image": "img/yoga/urdhva-dhanurasana-2.webp"
+    },
+    {
+      "front": "Эка пада урдхва дхануразана",
+      "back": [
+        "Эка пада урдхва дхануразана"
+      ],
+      "note": "Eka Pāda Ūrdhva Dhanurāsana (поза моста)",
+      "image": "img/yoga/eka-pada-urdhva-dhanurasana.webp"
+    },
+    {
+      "front": "Эка хаста урдхва дхануразана",
+      "back": [
+        "Эка хаста урдхва дхануразана"
+      ],
+      "note": "Eka Hasta Ūrdhva Dhanurāsana",
+      "image": "img/yoga/eka-hasta-urdhva-dhanurasana.webp"
+    },
+    {
+      "front": "Эка пада эка хаста урдхва дхануразана",
+      "back": [
+        "Эка пада эка хаста урдхва дхануразана"
+      ],
+      "note": "Eka Pāda Eka Hasta Ūrdhva Dhanurāsana",
+      "image": "img/yoga/eka-pada-eka-hasta-urdhva-dhanurasana.webp"
     }
   ],
-  "start": 48
+  "start": 64
 }
