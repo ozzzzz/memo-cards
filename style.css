@@ -1,0 +1,109 @@
+:root {
+  --bg: #fafaf7;
+  --fg: #1c1c1c;
+  --muted: #777;
+  --card: #fff;
+  --border: #ddd;
+  --accent: #b4491f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161616;
+    --fg: #eee;
+    --muted: #999;
+    --card: #222;
+    --border: #3a3a3a;
+    --accent: #e8825a;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.5 system-ui, sans-serif;
+}
+
+main {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 16px;
+  padding-bottom: max(16px, env(safe-area-inset-bottom));
+}
+
+h1 { font-size: 1.4rem; margin: 0 0 16px; }
+p.muted, .muted { color: var(--muted); }
+
+button, a.btn {
+  font: inherit;
+  color: inherit;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 16px;
+  cursor: pointer;
+  text-decoration: none;
+}
+button:hover, a.btn:hover { border-color: var(--accent); }
+
+/* menu */
+.menu { display: grid; gap: 10px; }
+.menu a {
+  display: block;
+  padding: 16px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+}
+.menu a:hover { border-color: var(--accent); }
+.menu strong { display: block; }
+
+/* deck */
+.bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.card {
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+  min-height: 55dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 24px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
+.card .main { font-size: 2.6rem; line-height: 1.2; }
+.card .deva {
+  font-family: "Tiro Devanagari Sanskrit", "Noto Serif Devanagari", "Kohinoor Devanagari", serif;
+  font-weight: 400;
+}
+.card .main.deva { font-size: 4.5rem; }
+.card .main.sub { font-size: 1.8rem; }
+.card .note { color: var(--muted); }
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 16px;
+}
+.controls .count { align-self: center; color: var(--muted); }
