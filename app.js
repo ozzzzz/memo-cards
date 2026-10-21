@@ -1,7 +1,15 @@
 const app = document.getElementById("app");
 
+// Deploy stamps the commit into index.html (`app.js?v=<sha>`); every asset URL carries it so phones refetch after a deploy.
+const stamp = new URL(import.meta.url).searchParams.get("v");
+const VERSION = stamp && stamp !== "__V__" ? stamp : "dev";
+
+function versioned(path) {
+  return `${path}?v=${VERSION}`;
+}
+
 async function loadJson(path) {
-  const res = await fetch(path);
+  const res = await fetch(versioned(path));
   if (!res.ok) throw new Error(`${path}: ${res.status}`);
   return res.json();
 }
@@ -24,7 +32,7 @@ function textEl(text, cls) {
 }
 
 function photoEl(card) {
-  return el("img", { class: "photo", src: card.image, alt: card.front, draggable: "false" });
+  return el("img", { class: "photo", src: versioned(card.image), alt: card.front, draggable: "false" });
 }
 
 function shuffled(items) {
@@ -55,7 +63,8 @@ async function showMenu() {
           el("span", { class: "muted" }, `${deck.cards.length} cards${deck.description ? " · " + deck.description : ""}`)
         )
       )
-    )
+    ),
+    el("p", { class: "muted version" }, `version ${VERSION}`)
   );
 }
 
