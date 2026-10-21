@@ -553,7 +553,2141 @@
       ],
       "note": "Eka Pāda Eka Hasta Ūrdhva Dhanurāsana",
       "image": "img/yoga/eka-pada-eka-hasta-urdhva-dhanurasana.webp"
+    },
+    {
+      "front": "Тадасана",
+      "back": [
+        "Тадасана"
+      ],
+      "note": "Tāḍāsana",
+      "image": "img/yoga/tadasana.webp"
+    },
+    {
+      "front": "Хаста уттананасана 1",
+      "back": [
+        "Хаста уттананасана 1"
+      ],
+      "note": "Hasta Uttānāsana 1",
+      "image": "img/yoga/hasta-uttanasana-1.webp"
+    },
+    {
+      "front": "Паршва тадасана",
+      "back": [
+        "Паршва тадасана"
+      ],
+      "note": "Pārśva Tāḍāsana",
+      "image": "img/yoga/parsva-tadasana.webp"
+    },
+    {
+      "front": "Чандрасана 1",
+      "back": [
+        "Чандрасана 1",
+        "Боковой наклон стоя"
+      ],
+      "note": "Candrāsana 1",
+      "image": "img/yoga/candrasana-1.webp"
+    },
+    {
+      "front": "Чандрасана 2",
+      "back": [
+        "Чандрасана 2"
+      ],
+      "note": "Candrāsana 2",
+      "image": "img/yoga/candrasana-2.webp"
+    },
+    {
+      "front": "Хаста уттанасана 2",
+      "back": [
+        "Хаста уттанасана 2",
+        "Вытяжение с замками"
+      ],
+      "note": "Hasta Uttānāsana 2",
+      "image": "img/yoga/hasta-uttanasana-2.webp"
+    },
+    {
+      "front": "Хаста уттанасана 3",
+      "back": [
+        "Хаста уттанасана 3"
+      ],
+      "note": "Hasta Uttānāsana 3",
+      "image": "img/yoga/hasta-uttanasana-3.webp"
+    },
+    {
+      "front": "Пурвоттана стхити",
+      "back": [
+        "Пурвоттана стхити"
+      ],
+      "note": "Pūrvottāna Sthiti",
+      "image": "img/yoga/purvottana-sthiti.webp"
+    },
+    {
+      "front": "Хаста уттанасана 4",
+      "back": [
+        "Хаста уттанасана 4"
+      ],
+      "note": "Hasta Uttānāsana 4",
+      "image": "img/yoga/hasta-uttanasana-4.webp"
+    },
+    {
+      "front": "Вичитра хаста уттанасана",
+      "back": [
+        "Вичитра хаста уттанасана"
+      ],
+      "note": "Vicitra Hasta Uttānāsana",
+      "image": "img/yoga/vicitra-hasta-uttanasana.webp"
+    },
+    {
+      "front": "Ардха уттанасана 1",
+      "back": [
+        "Ардха уттанасана 1"
+      ],
+      "note": "Ardha Uttānāsana 1",
+      "image": "img/yoga/ardha-uttanasana-1.webp"
+    },
+    {
+      "front": "Ардха уттанасана 2",
+      "back": [
+        "Ардха уттанасана 2"
+      ],
+      "note": "Ardha Uttānāsana 2",
+      "image": "img/yoga/ardha-uttanasana-2.webp"
+    },
+    {
+      "front": "Ардха уттанасана 3",
+      "back": [
+        "Ардха уттанасана 3"
+      ],
+      "note": "Ardha Uttānāsana 3",
+      "image": "img/yoga/ardha-uttanasana-3.webp"
+    },
+    {
+      "front": "Уткатасана 1",
+      "back": [
+        "Уткатасана 1",
+        "Поза жёсткости"
+      ],
+      "note": "Utkaṭāsana 1",
+      "image": "img/yoga/utkatasana-1.webp"
+    },
+    {
+      "front": "Уткатасана 2",
+      "back": [
+        "Уткатасана 2"
+      ],
+      "note": "Utkaṭāsana 2",
+      "image": "img/yoga/utkatasana-2.webp"
+    },
+    {
+      "front": "Уткатасана 3",
+      "back": [
+        "Уткатасана 3"
+      ],
+      "note": "Utkaṭāsana 3",
+      "image": "img/yoga/utkatasana-3.webp"
+    },
+    {
+      "front": "Утхитта уткатасана",
+      "back": [
+        "Утхитта уткатасана"
+      ],
+      "note": "Utthita Utkaṭāsana",
+      "image": "img/yoga/utthita-utkatasana.webp"
+    },
+    {
+      "front": "Паривритта уткатасана 1",
+      "back": [
+        "Паривритта уткатасана 1"
+      ],
+      "note": "Parivṛtta Utkaṭāsana 1",
+      "image": "img/yoga/parivrtta-utkatasana-1.webp"
+    },
+    {
+      "front": "Паривритта уткатасана 2",
+      "back": [
+        "Паривритта уткатасана 2"
+      ],
+      "note": "Parivṛtta Utkaṭāsana 2",
+      "image": "img/yoga/parivrtta-utkatasana-2.webp"
+    },
+    {
+      "front": "Уттанасана 1",
+      "back": [
+        "Уттанасана 1",
+        "Вытяжение в наклоне стоя"
+      ],
+      "note": "Uttānāsana 1",
+      "image": "img/yoga/uttanasana-1.webp"
+    },
+    {
+      "front": "Уттанасана 2",
+      "back": [
+        "Уттанасана 2"
+      ],
+      "note": "Uttānāsana 2",
+      "image": "img/yoga/uttanasana-2.webp"
+    },
+    {
+      "front": "Уттанасана 3",
+      "back": [
+        "Уттанасана 3"
+      ],
+      "note": "Uttānāsana 3",
+      "image": "img/yoga/uttanasana-3.webp"
+    },
+    {
+      "front": "Уттанасана 4",
+      "back": [
+        "Уттанасана 4"
+      ],
+      "note": "Uttānāsana 4",
+      "image": "img/yoga/uttanasana-4.webp"
+    },
+    {
+      "front": "Уттанасана 5",
+      "back": [
+        "Уттанасана 5"
+      ],
+      "note": "Uttānāsana 5",
+      "image": "img/yoga/uttanasana-5.webp"
+    },
+    {
+      "front": "Уттанасана 6",
+      "back": [
+        "Уттанасана 6",
+        "Наклон стоя с замками, но стопы вместе"
+      ],
+      "note": "Uttānāsana 6",
+      "image": "img/yoga/uttanasana-6.webp"
+    },
+    {
+      "front": "Падахастасана",
+      "back": [
+        "Падахастасана",
+        "Наклон с захватом за стопы"
+      ],
+      "note": "Pādahastāsana",
+      "image": "img/yoga/padahastasana.webp"
+    },
+    {
+      "front": "Пада анупрастхасана",
+      "back": [
+        "Пада анупрастхасана"
+      ],
+      "note": "Pāda Anuprasthāsana",
+      "image": "img/yoga/pada-anuprasthasana.webp"
+    },
+    {
+      "front": "Вичитра ардха уттанасана",
+      "back": [
+        "Вичитра ардха уттанасана"
+      ],
+      "note": "Vicitra Ardha Uttānāsana",
+      "image": "img/yoga/vicitra-ardha-uttanasana.webp"
+    },
+    {
+      "front": "Паршва баддха уттанасана",
+      "back": [
+        "Паршва баддха уттанасана"
+      ],
+      "note": "Pārśva Baddha Uttānāsana",
+      "image": "img/yoga/parsva-baddha-uttanasana.webp"
+    },
+    {
+      "front": "Ханджанасана 1 (трясогузка)",
+      "back": [
+        "Ханджанасана 1 (трясогузка)"
+      ],
+      "note": "Khañjanāsana 1 (трясогузка)",
+      "image": "img/yoga/khanjanasana-1.webp"
+    },
+    {
+      "front": "Ханджанасана 2 (трясогузка)",
+      "back": [
+        "Ханджанасана 2 (трясогузка)"
+      ],
+      "note": "Khañjanāsana 2 (трясогузка)",
+      "image": "img/yoga/khanjanasana-2.webp"
+    },
+    {
+      "front": "Ханджанасана 3 (трясогузка)",
+      "back": [
+        "Ханджанасана 3 (трясогузка)"
+      ],
+      "note": "Khañjanāsana 3 (трясогузка)",
+      "image": "img/yoga/khanjanasana-3.webp"
+    },
+    {
+      "front": "Ханджанасана 4 (трясогузка)",
+      "back": [
+        "Ханджанасана 4 (трясогузка)"
+      ],
+      "note": "Khañjanāsana 4 (трясогузка)",
+      "image": "img/yoga/khanjanasana-4.webp"
+    },
+    {
+      "front": "Прападасана",
+      "back": [
+        "Прападасана"
+      ],
+      "note": "Prapadāsana",
+      "image": "img/yoga/prapadasana.webp"
+    },
+    {
+      "front": "Кагасана",
+      "back": [
+        "Кагасана"
+      ],
+      "note": "Kākāsana",
+      "image": "img/yoga/kakasana.webp"
+    },
+    {
+      "front": "Паршва кагасана",
+      "back": [
+        "Паршва кагасана"
+      ],
+      "note": "Pārśva Kākāsana",
+      "image": "img/yoga/parsva-kakasana.webp"
+    },
+    {
+      "front": "Паршва баддха кагасана",
+      "back": [
+        "Паршва баддха кагасана"
+      ],
+      "note": "Pārśva Baddha Kākāsana",
+      "image": "img/yoga/parsva-baddha-kakasana.webp"
+    },
+    {
+      "front": "Вичитра маласана (низкий присед)",
+      "back": [
+        "Вичитра маласана (низкий присед)"
+      ],
+      "note": "Vicitra Mālāsana (низкий присед)",
+      "image": "img/yoga/vicitra-malasana.webp"
+    },
+    {
+      "front": "Маласана",
+      "back": [
+        "Маласана"
+      ],
+      "note": "Mālāsana",
+      "image": "img/yoga/malasana.webp"
+    },
+    {
+      "front": "Кундаласана",
+      "back": [
+        "Кундаласана"
+      ],
+      "note": "Kuṇḍalāsana",
+      "image": "img/yoga/kundalasana.webp"
+    },
+    {
+      "front": "Паригхасана 1",
+      "back": [
+        "Паригхасана 1",
+        "Боковой наклон с колена, поза засов"
+      ],
+      "note": "Parighāsana 1",
+      "image": "img/yoga/parighasana-1.webp"
+    },
+    {
+      "front": "Паригхасана 2",
+      "back": [
+        "Паригхасана 2",
+        "Боковой наклон с колена, поза засов"
+      ],
+      "note": "Parighāsana 2",
+      "image": "img/yoga/parighasana-2.webp"
+    },
+    {
+      "front": "Врикшасана 1",
+      "back": [
+        "Врикшасана 1",
+        "Поза дерева"
+      ],
+      "note": "Vṛkṣāsana 1",
+      "image": "img/yoga/vrksasana-1.webp"
+    },
+    {
+      "front": "Врикшасана 2",
+      "back": [
+        "Врикшасана 2"
+      ],
+      "note": "Vṛkṣāsana 2",
+      "image": "img/yoga/vrksasana-2.webp"
+    },
+    {
+      "front": "Ардха баддха падма врикшасана",
+      "back": [
+        "Ардха баддха падма врикшасана"
+      ],
+      "note": "Ardha Baddha Padma Vṛkṣāsana",
+      "image": "img/yoga/ardha-baddha-padma-vrksasana.webp"
+    },
+    {
+      "front": "Ардха чандрасана 1",
+      "back": [
+        "Ардха чандрасана 1"
+      ],
+      "note": "Ardha Candrāsana 1",
+      "image": "img/yoga/ardha-candrasana-1.webp"
+    },
+    {
+      "front": "Ардха чандрасана 2",
+      "back": [
+        "Ардха чандрасана 2"
+      ],
+      "note": "Ardha Candrāsana 2",
+      "image": "img/yoga/ardha-candrasana-2.webp"
+    },
+    {
+      "front": "Ардха чандрасана 3",
+      "back": [
+        "Ардха чандрасана 3"
+      ],
+      "note": "Ardha Candrāsana 3",
+      "image": "img/yoga/ardha-candrasana-3.webp"
+    },
+    {
+      "front": "Паривритта ардха чандрасана",
+      "back": [
+        "Паривритта ардха чандрасана"
+      ],
+      "note": "Parivṛtta Ardha Candrāsana",
+      "image": "img/yoga/parivrtta-ardha-candrasana.webp"
+    },
+    {
+      "front": "Вичитра урдхва прасарита экападасана",
+      "back": [
+        "Вичитра урдхва прасарита экападасана"
+      ],
+      "note": "Vicitra Ūrdhva Prasārita Ekapādāsana",
+      "image": "img/yoga/vicitra-urdhva-prasarita-ekapadasana.webp"
+    },
+    {
+      "front": "Урдхва прасарита экападасана",
+      "back": [
+        "Урдхва прасарита экападасана"
+      ],
+      "note": "Ūrdhva Prasārita Ekapādāsana",
+      "image": "img/yoga/urdhva-prasarita-ekapadasana.webp"
+    },
+    {
+      "front": "Вирабхадрасана 3.1",
+      "back": [
+        "Вирабхадрасана 3.1"
+      ],
+      "note": "Vīrabhadrāsana 3.1",
+      "image": "img/yoga/virabhadrasana-3-1.webp"
+    },
+    {
+      "front": "Вирабхадрасана 3.2",
+      "back": [
+        "Вирабхадрасана 3.2"
+      ],
+      "note": "Vīrabhadrāsana 3.2",
+      "image": "img/yoga/virabhadrasana-3-2.webp"
+    },
+    {
+      "front": "Вичитра вирабхадрасана 3",
+      "back": [
+        "Вичитра вирабхадрасана 3"
+      ],
+      "note": "Vicitra Vīrabhadrāsana 3",
+      "image": "img/yoga/vicitra-virabhadrasana-3.webp"
+    },
+    {
+      "front": "Ардха уттхита хаста падангуштасана",
+      "back": [
+        "Ардха уттхита хаста падангуштасана"
+      ],
+      "note": "Ardha Utthita Hasta Pādāṅguṣṭhāsana",
+      "image": "img/yoga/ardha-utthita-hasta-padangusthasana.webp"
+    },
+    {
+      "front": "Урдхва эка пада павана муктасана",
+      "back": [
+        "Урдхва эка пада павана муктасана",
+        "Захват голени стоя"
+      ],
+      "note": "Ūrdhva Eka Pāda Pavana Muktāsana",
+      "image": "img/yoga/urdhva-eka-pada-pavana-muktasana.webp"
+    },
+    {
+      "front": "Вичитра уттхита хаста падангуштасана 1",
+      "back": [
+        "Вичитра уттхита хаста падангуштасана 1"
+      ],
+      "note": "Vicitra Utthita Hasta Pādāṅguṣṭhāsana 1",
+      "image": "img/yoga/vicitra-utthita-hasta-padangusthasana-1.webp"
+    },
+    {
+      "front": "Вичитра маричиасана",
+      "back": [
+        "Вичитра маричиасана"
+      ],
+      "note": "Vicitra Marīcyāsana",
+      "image": "img/yoga/vicitra-maricyasana.webp"
+    },
+    {
+      "front": "Уттхита хаста падангуштасана 1",
+      "back": [
+        "Уттхита хаста падангуштасана 1"
+      ],
+      "note": "Utthita Hasta Pādāṅguṣṭhāsana 1",
+      "image": "img/yoga/utthita-hasta-padangusthasana-1.webp"
+    },
+    {
+      "front": "Уттхита хаста падангуштхасана 2.1",
+      "back": [
+        "Уттхита хаста падангуштхасана 2.1"
+      ],
+      "note": "Utthita Hasta Pādāṅguṣṭhāsana 2.1",
+      "image": "img/yoga/utthita-hasta-padangusthasana-2-1.webp"
+    },
+    {
+      "front": "Уттхита хаста падангуштхасана 2.2",
+      "back": [
+        "Уттхита хаста падангуштхасана 2.2"
+      ],
+      "note": "Utthita Hasta Pādāṅguṣṭhāsana 2.2",
+      "image": "img/yoga/utthita-hasta-padangusthasana-2-2.webp"
+    },
+    {
+      "front": "Паривритта утхитта хаста падангуштхасана",
+      "back": [
+        "Паривритта утхитта хаста падангуштхасана"
+      ],
+      "note": "Parivṛtta Utthita Hasta Pādāṅguṣṭhāsana",
+      "image": "img/yoga/parivrtta-utthita-hasta-padangusthasana.webp"
+    },
+    {
+      "front": "Паршва натараджасана",
+      "back": [
+        "Паршва натараджасана"
+      ],
+      "note": "Pārśva Naṭarājāsana",
+      "image": "img/yoga/parsva-natarajasana.webp"
+    },
+    {
+      "front": "Ардха натараджасана",
+      "back": [
+        "Ардха натараджасана"
+      ],
+      "note": "Ardha Naṭarājāsana",
+      "image": "img/yoga/ardha-natarajasana.webp"
+    },
+    {
+      "front": "Натараджасана 1",
+      "back": [
+        "Натараджасана 1"
+      ],
+      "note": "Naṭarājāsana 1",
+      "image": "img/yoga/natarajasana-1.webp"
+    },
+    {
+      "front": "Натараджасана 2",
+      "back": [
+        "Натараджасана 2"
+      ],
+      "note": "Naṭarājāsana 2",
+      "image": "img/yoga/natarajasana-2.webp"
+    },
+    {
+      "front": "Гарудасана",
+      "back": [
+        "Гарудасана",
+        "Поза орла"
+      ],
+      "note": "Garuḍāsana",
+      "image": "img/yoga/garudasana.webp"
+    },
+    {
+      "front": "Вичитра ардха матьсендрасана",
+      "back": [
+        "Вичитра ардха матьсендрасана"
+      ],
+      "note": "Vicitra Ardha Matsyendrāsana",
+      "image": "img/yoga/vicitra-ardha-matsyendrasana.webp"
+    },
+    {
+      "front": "Ардха агни стамбхасана",
+      "back": [
+        "Ардха агни стамбхасана"
+      ],
+      "note": "Ardha Agni Stambhāsana",
+      "image": "img/yoga/ardha-agni-stambhasana.webp"
+    },
+    {
+      "front": "Ардха агнистамбха уткатасана",
+      "back": [
+        "Ардха агнистамбха уткатасана"
+      ],
+      "note": "Ardha Agnistambha Utkaṭāsana",
+      "image": "img/yoga/ardha-agnistambha-utkatasana.webp"
+    },
+    {
+      "front": "Вирабхадрасана 1.1",
+      "back": [
+        "Вирабхадрасана 1.1",
+        "Поза воина"
+      ],
+      "note": "Vīrabhadrāsana 1.1",
+      "image": "img/yoga/virabhadrasana-1-1.webp"
+    },
+    {
+      "front": "Вирабхадрасана 1.2",
+      "back": [
+        "Вирабхадрасана 1.2",
+        "Поза воина"
+      ],
+      "note": "Vīrabhadrāsana 1.2",
+      "image": "img/yoga/virabhadrasana-1-2.webp"
+    },
+    {
+      "front": "Вичитра вирабхадрасана 1",
+      "back": [
+        "Вичитра вирабхадрасана 1"
+      ],
+      "note": "Vicitra Vīrabhadrāsana 1",
+      "image": "img/yoga/vicitra-virabhadrasana-1.webp"
+    },
+    {
+      "front": "Вирабхадрасана 1.3",
+      "back": [
+        "Вирабхадрасана 1.3"
+      ],
+      "note": "Vīrabhadrāsana 1.3",
+      "image": "img/yoga/virabhadrasana-1-3.webp"
+    },
+    {
+      "front": "Вирабхадрасана 1.4",
+      "back": [
+        "Вирабхадрасана 1.4"
+      ],
+      "note": "Vīrabhadrāsana 1.4",
+      "image": "img/yoga/virabhadrasana-1-4.webp"
+    },
+    {
+      "front": "Вирабхадрасана 2",
+      "back": [
+        "Вирабхадрасана 2",
+        "Поза воина"
+      ],
+      "note": "Vīrabhadrāsana 2",
+      "image": "img/yoga/virabhadrasana-2.webp"
+    },
+    {
+      "front": "Паршва вирабхадрасана 1",
+      "back": [
+        "Паршва вирабхадрасана 1"
+      ],
+      "note": "Pārśva Vīrabhadrāsana 1",
+      "image": "img/yoga/parsva-virabhadrasana-1.webp"
+    },
+    {
+      "front": "Уттхита баддха паршваконасана 1",
+      "back": [
+        "Уттхита баддха паршваконасана 1"
+      ],
+      "note": "Utthita Baddha Pārśvakoṇāsana 1",
+      "image": "img/yoga/utthita-baddha-parsvakonasana-1.webp"
+    },
+    {
+      "front": "Утхитта паршваконасана",
+      "back": [
+        "Утхитта паршваконасана"
+      ],
+      "note": "Utthita Pārśvakoṇāsana",
+      "image": "img/yoga/utthita-parsvakonasana.webp"
+    },
+    {
+      "front": "Утхитта баддха паршваконасана 2",
+      "back": [
+        "Утхитта баддха паршваконасана 2"
+      ],
+      "note": "Utthita Baddha Pārśvakoṇāsana 2",
+      "image": "img/yoga/utthita-baddha-parsvakonasana-2.webp"
+    },
+    {
+      "front": "Вичитра уттхита паршваконасана",
+      "back": [
+        "Вичитра уттхита паршваконасана",
+        "Вытянутый боковой угол силовой вариант"
+      ],
+      "note": "Vicitra Utthita Pārśvakoṇāsana",
+      "image": "img/yoga/vicitra-utthita-parsvakonasana.webp"
+    },
+    {
+      "front": "Паривритта паршваконасана 2",
+      "back": [
+        "Паривритта паршваконасана 2"
+      ],
+      "note": "Parivṛtta Pārśvakoṇāsana 2",
+      "image": "img/yoga/parivrtta-parsvakonasana-2.webp"
+    },
+    {
+      "front": "Паривритта паршваконасана 1",
+      "back": [
+        "Паривритта паршваконасана 1",
+        "Поза перевёрнутого бокового угла"
+      ],
+      "note": "Parivṛtta Pārśvakoṇāsana 1",
+      "image": "img/yoga/parivrtta-parsvakonasana-1.webp"
+    },
+    {
+      "front": "Паривритта баддха паршваконасана",
+      "back": [
+        "Паривритта баддха паршваконасана"
+      ],
+      "note": "Parivṛtta Baddha Pārśvakoṇāsana",
+      "image": "img/yoga/parivrtta-baddha-parsvakonasana.webp"
+    },
+    {
+      "front": "Рудрасана 1",
+      "back": [
+        "Рудрасана 1"
+      ],
+      "note": "Rudrāsana 1",
+      "image": "img/yoga/rudrasana-1.webp"
+    },
+    {
+      "front": "Рудрасана 2",
+      "back": [
+        "Рудрасана 2"
+      ],
+      "note": "Rudrāsana 2",
+      "image": "img/yoga/rudrasana-2.webp"
+    },
+    {
+      "front": "Хаста рудрасана",
+      "back": [
+        "Хаста рудрасана"
+      ],
+      "note": "Hasta Rudrāsana",
+      "image": "img/yoga/hasta-rudrasana.webp"
+    },
+    {
+      "front": "Паривритта стамбхасана",
+      "back": [
+        "Паривритта стамбхасана",
+        "Винтовое скручивание"
+      ],
+      "note": "Parivṛtta Stambhāsana",
+      "image": "img/yoga/parivrtta-stambhasana.webp"
+    },
+    {
+      "front": "Паривритта рудрасана",
+      "back": [
+        "Паривритта рудрасана",
+        "Винтовое скручивание"
+      ],
+      "note": "Parivṛtta Rudrāsana",
+      "image": "img/yoga/parivrtta-rudrasana.webp"
+    },
+    {
+      "front": "Паривритта триконасана 1",
+      "back": [
+        "Паривритта триконасана 1"
+      ],
+      "note": "Parivṛtta Trikoṇāsana 1",
+      "image": "img/yoga/parivrtta-trikonasana-1.webp"
+    },
+    {
+      "front": "Прасарита падоттанасана 1",
+      "back": [
+        "Прасарита падоттанасана 1",
+        "Наклон разведёнными ногами"
+      ],
+      "note": "Prasārita Pādottānāsana 1",
+      "image": "img/yoga/prasarita-padottanasana-1.webp"
+    },
+    {
+      "front": "Прасарита падоттанасана 2",
+      "back": [
+        "Прасарита падоттанасана 2"
+      ],
+      "note": "Prasārita Pādottānāsana 2",
+      "image": "img/yoga/prasarita-padottanasana-2.webp"
+    },
+    {
+      "front": "Прасарита падоттанасана 3",
+      "back": [
+        "Прасарита падоттанасана 3"
+      ],
+      "note": "Prasārita Pādottānāsana 3",
+      "image": "img/yoga/prasarita-padottanasana-3.webp"
+    },
+    {
+      "front": "Эка пада прасарита падоттанасана",
+      "back": [
+        "Эка пада прасарита падоттанасана"
+      ],
+      "note": "Eka Pāda Prasārita Pādottānāsana",
+      "image": "img/yoga/eka-pada-prasarita-padottanasana.webp"
+    },
+    {
+      "front": "Паршва триконасана",
+      "back": [
+        "Паршва триконасана"
+      ],
+      "note": "Pārśva Trikoṇāsana",
+      "image": "img/yoga/parsva-trikonasana.webp"
+    },
+    {
+      "front": "Утхитта триконасана",
+      "back": [
+        "Утхитта триконасана",
+        "Поза вытянутого треугольника"
+      ],
+      "note": "Utthita Trikoṇāsana",
+      "image": "img/yoga/utthita-trikonasana.webp"
+    },
+    {
+      "front": "Паривритта триконасана 2",
+      "back": [
+        "Паривритта триконасана 2",
+        "Поза скрученного треугольника"
+      ],
+      "note": "Parivṛtta Trikoṇāsana 2",
+      "image": "img/yoga/parivrtta-trikonasana-2.webp"
+    },
+    {
+      "front": "Паршваттонасана",
+      "back": [
+        "Паршваттонасана"
+      ],
+      "note": "Pārśvottānāsana",
+      "image": "img/yoga/parsvottanasana.webp"
+    },
+    {
+      "front": "Вичитра паршвоттанасана",
+      "back": [
+        "Вичитра паршвоттанасана"
+      ],
+      "note": "Vicitra Pārśvottānāsana",
+      "image": "img/yoga/vicitra-parsvottanasana.webp"
+    },
+    {
+      "front": "Ашва санчаланасана 1",
+      "back": [
+        "Ашва санчаланасана 1",
+        "Выпад с коленом на полу"
+      ],
+      "note": "Aśva Sañcālanāsana 1",
+      "image": "img/yoga/asva-sancalanasana-1.webp"
+    },
+    {
+      "front": "Ашва санчаланасана 2",
+      "back": [
+        "Ашва санчаланасана 2"
+      ],
+      "note": "Aśva Sañcālanāsana 2",
+      "image": "img/yoga/asva-sancalanasana-2.webp"
+    },
+    {
+      "front": "Анджанейасана 1",
+      "back": [
+        "Анджанейасана 1"
+      ],
+      "note": "Añjaneyāsana 1",
+      "image": "img/yoga/anjaneyasana-1.webp"
+    },
+    {
+      "front": "Анджанейасана 2",
+      "back": [
+        "Анджанейасана 2"
+      ],
+      "note": "Añjaneyāsana 2",
+      "image": "img/yoga/anjaneyasana-2.webp"
+    },
+    {
+      "front": "Ашва санчаланасана 3",
+      "back": [
+        "Ашва санчаланасана 3",
+        "Поза наездника"
+      ],
+      "note": "Aśva Sañcālanāsana 3",
+      "image": "img/yoga/asva-sancalanasana-3.webp"
+    },
+    {
+      "front": "Уттан приштхасана 1",
+      "back": [
+        "Уттан приштхасана 1"
+      ],
+      "note": "Uttān Pṛṣṭhāsana 1",
+      "image": "img/yoga/uttan-prsthasana-1.webp"
+    },
+    {
+      "front": "Уттан приштхасана 2",
+      "back": [
+        "Уттан приштхасана 2",
+        "Выпад с плечом под коленом"
+      ],
+      "note": "Uttān Pṛṣṭhāsana 2",
+      "image": "img/yoga/uttan-prsthasana-2.webp"
+    },
+    {
+      "front": "Ардха триконасана",
+      "back": [
+        "Ардха триконасана",
+        "Полушпагат"
+      ],
+      "note": "Ardha Trikoṇāsana",
+      "image": "img/yoga/ardha-trikonasana.webp"
+    },
+    {
+      "front": "Хануманасана 1",
+      "back": [
+        "Хануманасана 1",
+        "Продольный шпагат"
+      ],
+      "note": "Hanumānāsana 1",
+      "image": "img/yoga/hanumanasana-1.webp"
+    },
+    {
+      "front": "Хануманасана 2",
+      "back": [
+        "Хануманасана 2",
+        "Продольный шпагат"
+      ],
+      "note": "Hanumānāsana 2",
+      "image": "img/yoga/hanumanasana-2.webp"
+    },
+    {
+      "front": "Паривритта триконасана",
+      "back": [
+        "Паривритта триконасана",
+        "Продольный шпагат"
+      ],
+      "note": "Parivṛtta Trikoṇāsana",
+      "image": "img/yoga/parivrtta-trikonasana.webp"
+    },
+    {
+      "front": "Хануманасана 4",
+      "back": [
+        "Хануманасана 4",
+        "Выпад с плечом под коленом"
+      ],
+      "note": "Hanumānāsana 4",
+      "image": "img/yoga/hanumanasana-4.webp"
+    },
+    {
+      "front": "Хануманасана 5",
+      "back": [
+        "Хануманасана 5",
+        "Полушпагат"
+      ],
+      "note": "Hanumānāsana 5",
+      "image": "img/yoga/hanumanasana-5.webp"
+    },
+    {
+      "front": "Скандасана",
+      "back": [
+        "Скандасана"
+      ],
+      "note": "Skandāsana",
+      "image": "img/yoga/skandasana.webp"
+    },
+    {
+      "front": "Паривритта самаконасана",
+      "back": [
+        "Паривритта самаконасана"
+      ],
+      "note": "Parivṛtta Samakoṇāsana",
+      "image": "img/yoga/parivrtta-samakonasana.webp"
+    },
+    {
+      "front": "Самаконасана 1",
+      "back": [
+        "Самаконасана 1"
+      ],
+      "note": "Samakoṇāsana 1",
+      "image": "img/yoga/samakonasana-1.webp"
+    },
+    {
+      "front": "Самаконасана 2",
+      "back": [
+        "Самаконасана 2"
+      ],
+      "note": "Samakoṇāsana 2",
+      "image": "img/yoga/samakonasana-2.webp"
+    },
+    {
+      "front": "Вичитра бакасана 1",
+      "back": [
+        "Вичитра бакасана 1"
+      ],
+      "note": "Vicitra Bakāsana 1",
+      "image": "img/yoga/vicitra-bakasana-1.webp"
+    },
+    {
+      "front": "Вичитра бакасана 2",
+      "back": [
+        "Вичитра бакасана 2"
+      ],
+      "note": "Vicitra Bakāsana 2",
+      "image": "img/yoga/vicitra-bakasana-2.webp"
+    },
+    {
+      "front": "Вичитра бакасана 3",
+      "back": [
+        "Вичитра бакасана 3"
+      ],
+      "note": "Vicitra Bakāsana 3",
+      "image": "img/yoga/vicitra-bakasana-3.webp"
+    },
+    {
+      "front": "Ардха бака титтибхасана",
+      "back": [
+        "Ардха бака титтибхасана"
+      ],
+      "note": "Ardha Baka Tiṭṭibhāsana",
+      "image": "img/yoga/ardha-baka-tittibhasana.webp"
+    },
+    {
+      "front": "Вичитра эка пада бакасана (подготовка)",
+      "back": [
+        "Вичитра эка пада бакасана (подготовка)"
+      ],
+      "note": "Vicitra Eka Pāda Bakāsana (подготовка)",
+      "image": "img/yoga/vicitra-eka-pada-bakasana.webp"
+    },
+    {
+      "front": "Вичитра эка пада бакасана",
+      "back": [
+        "Вичитра эка пада бакасана"
+      ],
+      "note": "Vicitra Eka Pāda Bakāsana",
+      "image": "img/yoga/vicitra-eka-pada-bakasana-p70.webp"
+    },
+    {
+      "front": "Эка пада бакасана",
+      "back": [
+        "Эка пада бакасана"
+      ],
+      "note": "Eka Pāda Bakāsana",
+      "image": "img/yoga/eka-pada-bakasana.webp"
+    },
+    {
+      "front": "Ардха бхуджапидасана",
+      "back": [
+        "Ардха бхуджапидасана"
+      ],
+      "note": "Ardha Bhujapīḍāsana",
+      "image": "img/yoga/ardha-bhujapidasana.webp"
+    },
+    {
+      "front": "Брахмачариасана подготовительная",
+      "back": [
+        "Брахмачариасана подготовительная"
+      ],
+      "note": "Brahmacāryāsana (подготовительная)",
+      "image": "img/yoga/brahmacaryasana.webp"
+    },
+    {
+      "front": "Брахмачариасана",
+      "back": [
+        "Брахмачариасана"
+      ],
+      "note": "Brahmacāryāsana",
+      "image": "img/yoga/brahmacaryasana-p71.webp"
+    },
+    {
+      "front": "Вичитра брахмачариасана",
+      "back": [
+        "Вичитра брахмачариасана"
+      ],
+      "note": "Vicitra Brahmacāryāsana",
+      "image": "img/yoga/vicitra-brahmacaryasana.webp"
+    },
+    {
+      "front": "Паршва бакасана",
+      "back": [
+        "Паршва бакасана"
+      ],
+      "note": "Pārśva Bakāsana",
+      "image": "img/yoga/parsva-bakasana.webp"
+    },
+    {
+      "front": "Дви пада каундиниасана",
+      "back": [
+        "Дви пада каундиниасана"
+      ],
+      "note": "Dvi Pāda Kauṇḍinyāsana",
+      "image": "img/yoga/dvi-pada-kaundinyasana.webp"
+    },
+    {
+      "front": "Паривритта эка пада каундиниасана",
+      "back": [
+        "Паривритта эка пада каундиниасана"
+      ],
+      "note": "Parivṛtta Eka Pāda Kauṇḍinyāsana",
+      "image": "img/yoga/parivrtta-eka-pada-kaundinyasana.webp"
+    },
+    {
+      "front": "Эка пада каундиниасана",
+      "back": [
+        "Эка пада каундиниасана"
+      ],
+      "note": "Eka Pāda Kauṇḍinyāsana",
+      "image": "img/yoga/eka-pada-kaundinyasana.webp"
+    },
+    {
+      "front": "Бхуджапидасана",
+      "back": [
+        "Бхуджапидасана"
+      ],
+      "note": "Bhujapīḍāsana",
+      "image": "img/yoga/bhujapidasana.webp"
+    },
+    {
+      "front": "Ардха бака бхуджапидасана",
+      "back": [
+        "Ардха бака бхуджапидасана"
+      ],
+      "note": "Ardha Baka Bhujapīḍāsana",
+      "image": "img/yoga/ardha-baka-bhujapidasana.webp"
+    },
+    {
+      "front": "Титтибхасана подготовительная",
+      "back": [
+        "Титтибхасана подготовительная"
+      ],
+      "note": "Tiṭṭibhāsana (подготовительная)",
+      "image": "img/yoga/tittibhasana.webp"
+    },
+    {
+      "front": "Титтибхасана 1",
+      "back": [
+        "Титтибхасана 1"
+      ],
+      "note": "Tiṭṭibhāsana 1",
+      "image": "img/yoga/tittibhasana-1.webp"
+    },
+    {
+      "front": "Титтибхасана 2",
+      "back": [
+        "Титтибхасана 2"
+      ],
+      "note": "Tiṭṭibhāsana 2",
+      "image": "img/yoga/tittibhasana-2.webp"
+    },
+    {
+      "front": "Титтибхасана 3",
+      "back": [
+        "Титтибхасана 3"
+      ],
+      "note": "Tiṭṭibhāsana 3",
+      "image": "img/yoga/tittibhasana-3.webp"
+    },
+    {
+      "front": "Титтибхасана 4",
+      "back": [
+        "Титтибхасана 4"
+      ],
+      "note": "Tiṭṭibhāsana 4",
+      "image": "img/yoga/tittibhasana-4.webp"
+    },
+    {
+      "front": "Аштавакрасана",
+      "back": [
+        "Аштавакрасана"
+      ],
+      "note": "Aṣṭāvakrāsana",
+      "image": "img/yoga/astavakrasana.webp"
+    },
+    {
+      "front": "Вичитра аштавакрасана",
+      "back": [
+        "Вичитра аштавакрасана"
+      ],
+      "note": "Vicitra Aṣṭāvakrāsana",
+      "image": "img/yoga/vicitra-astavakrasana.webp"
+    },
+    {
+      "front": "Вичитра йога дандасана",
+      "back": [
+        "Вичитра йога дандасана"
+      ],
+      "note": "Vicitra Yoga Daṇḍāsana",
+      "image": "img/yoga/vicitra-yoga-dandasana.webp"
+    },
+    {
+      "front": "Лоласана",
+      "back": [
+        "Лоласана",
+        "Поза весов"
+      ],
+      "note": "Lolāsana",
+      "image": "img/yoga/lolasana.webp"
+    },
+    {
+      "front": "Эка пада галавасана",
+      "back": [
+        "Эка пада галавасана"
+      ],
+      "note": "Eka Pāda Gālavāsana",
+      "image": "img/yoga/eka-pada-galavasana.webp"
+    },
+    {
+      "front": "Маюрасана",
+      "back": [
+        "Маюрасана",
+        "Поза павлина"
+      ],
+      "note": "Mayūrāsana",
+      "image": "img/yoga/mayurasana.webp"
+    },
+    {
+      "front": "Эка хаста маюрасана",
+      "back": [
+        "Эка хаста маюрасана"
+      ],
+      "note": "Eka Hasta Mayūrāsana",
+      "image": "img/yoga/eka-hasta-mayurasana.webp"
+    },
+    {
+      "front": "Падма маюрасана",
+      "back": [
+        "Падма маюрасана"
+      ],
+      "note": "Padma Mayūrāsana",
+      "image": "img/yoga/padma-mayurasana.webp"
+    },
+    {
+      "front": "Вришчикасана 1",
+      "back": [
+        "Вришчикасана 1",
+        "Стойка на подбородке"
+      ],
+      "note": "Vṛścikāsana 1",
+      "image": "img/yoga/vrscikasana-1.webp"
+    },
+    {
+      "front": "Вришчикасана 2",
+      "back": [
+        "Вришчикасана 2"
+      ],
+      "note": "Vṛścikāsana 2",
+      "image": "img/yoga/vrscikasana-2.webp"
+    },
+    {
+      "front": "Вичитра пинча маюрасана",
+      "back": [
+        "Вичитра пинча маюрасана"
+      ],
+      "note": "Vicitra Pīñcha Mayūrāsana",
+      "image": "img/yoga/vicitra-pincha-mayurasana.webp"
+    },
+    {
+      "front": "Пинча маюрасана",
+      "back": [
+        "Пинча маюрасана"
+      ],
+      "note": "Pīñcha Mayūrāsana",
+      "image": "img/yoga/pincha-mayurasana.webp"
+    },
+    {
+      "front": "Ширшасана подготовительная",
+      "back": [
+        "Ширшасана подготовительная"
+      ],
+      "note": "Śīrṣāsana (подготовительная)",
+      "image": "img/yoga/sirsasana.webp"
+    },
+    {
+      "front": "Ширшасана 1",
+      "back": [
+        "Ширшасана 1",
+        "Стойка на голове"
+      ],
+      "note": "Śīrṣāsana 1",
+      "image": "img/yoga/sirsasana-1.webp"
+    },
+    {
+      "front": "Ширшасана 2",
+      "back": [
+        "Ширшасана 2",
+        "Стойка на голове"
+      ],
+      "note": "Śīrṣāsana 2",
+      "image": "img/yoga/sirsasana-2.webp"
+    },
+    {
+      "front": "Випарита карани мудра",
+      "back": [
+        "Випарита карани мудра"
+      ],
+      "note": "Viparīta Karaṇī Mudrā",
+      "image": "img/yoga/viparita-karani-mudra.webp"
+    },
+    {
+      "front": "Вичитра халасана",
+      "back": [
+        "Вичитра халасана"
+      ],
+      "note": "Vicitra Halāsana",
+      "image": "img/yoga/vicitra-halasana.webp"
+    },
+    {
+      "front": "Нираламба сарвангасана",
+      "back": [
+        "Нираламба сарвангасана",
+        "Стойка на плечах"
+      ],
+      "note": "Nirālamba Sarvāṅgāsana",
+      "image": "img/yoga/niralamba-sarvangasana.webp"
+    },
+    {
+      "front": "Хаста дандасана",
+      "back": [
+        "Хаста дандасана"
+      ],
+      "note": "Hasta Daṇḍāsana",
+      "image": "img/yoga/hasta-dandasana.webp"
+    },
+    {
+      "front": "Дандасана",
+      "back": [
+        "Дандасана"
+      ],
+      "note": "Daṇḍāsana",
+      "image": "img/yoga/dandasana.webp"
+    },
+    {
+      "front": "Париврита дандасана",
+      "back": [
+        "Париврита дандасана"
+      ],
+      "note": "Parivṛtta Daṇḍāsana",
+      "image": "img/yoga/parivrtta-dandasana.webp"
+    },
+    {
+      "front": "Ардха матсьясана 1",
+      "back": [
+        "Ардха матсьясана 1"
+      ],
+      "note": "Ardha Matsyāsana 1",
+      "image": "img/yoga/ardha-matsyasana-1.webp"
+    },
+    {
+      "front": "Ардха матьясана 2",
+      "back": [
+        "Ардха матьясана 2"
+      ],
+      "note": "Ardha Matsyāsana 2",
+      "image": "img/yoga/ardha-matsyasana-2.webp"
+    },
+    {
+      "front": "Ардха пашчимоттанасана",
+      "back": [
+        "Ардха пашчимоттанасана"
+      ],
+      "note": "Ardha Paścimottānāsana",
+      "image": "img/yoga/ardha-pascimottanasana.webp"
+    },
+    {
+      "front": "Пашчимоттанасана 1",
+      "back": [
+        "Пашчимоттанасана 1"
+      ],
+      "note": "Paścimottānāsana 1",
+      "image": "img/yoga/pascimottanasana-1.webp"
+    },
+    {
+      "front": "Пашчимоттанасана 2",
+      "back": [
+        "Пашчимоттанасана 2"
+      ],
+      "note": "Paścimottānāsana 2",
+      "image": "img/yoga/pascimottanasana-2.webp"
+    },
+    {
+      "front": "Пашчимоттанасана 3",
+      "back": [
+        "Пашчимоттанасана 3"
+      ],
+      "note": "Paścimottānāsana 3",
+      "image": "img/yoga/pascimottanasana-3.webp"
+    },
+    {
+      "front": "Уграсана",
+      "back": [
+        "Уграсана"
+      ],
+      "note": "Ugrāsana",
+      "image": "img/yoga/ugrasana.webp"
+    },
+    {
+      "front": "Ардха джану ширшасана",
+      "back": [
+        "Ардха джану ширшасана"
+      ],
+      "note": "Ardha Jānu Śīrṣāsana",
+      "image": "img/yoga/ardha-janu-sirsasana.webp"
+    },
+    {
+      "front": "Джану ширшасана",
+      "back": [
+        "Джану ширшасана",
+        "С наклоном"
+      ],
+      "note": "Jānu Śīrṣāsana",
+      "image": "img/yoga/janu-sirsasana.webp"
+    },
+    {
+      "front": "Паривритта джану ширшасана (подготовительная)",
+      "back": [
+        "Паривритта джану ширшасана (подготовительная)"
+      ],
+      "note": "Parivṛtta Jānu Śīrṣāsana (подготовительная)",
+      "image": "img/yoga/parivrtta-janu-sirsasana.webp"
+    },
+    {
+      "front": "Паривритта джану ширшасана",
+      "back": [
+        "Паривритта джану ширшасана"
+      ],
+      "note": "Parivṛtta Jānu Śīrṣāsana",
+      "image": "img/yoga/parivrtta-janu-sirsasana-p86.webp"
+    },
+    {
+      "front": "Маричасана",
+      "back": [
+        "Маричасана",
+        "Наклон к ноге"
+      ],
+      "note": "Marīcāsana",
+      "image": "img/yoga/maricasana.webp"
+    },
+    {
+      "front": "Ардха трианг мукха пашчимоттанасана",
+      "back": [
+        "Ардха трианг мукха пашчимоттанасана"
+      ],
+      "note": "Ardha Tryaṅg Mukha Paścimottānāsana",
+      "image": "img/yoga/ardha-tryang-mukha-pascimottanasana.webp"
+    },
+    {
+      "front": "Трианг мукха пашчимоттанасана",
+      "back": [
+        "Трианг мукха пашчимоттанасана"
+      ],
+      "note": "Tryaṅg Mukha Paścimottānāsana",
+      "image": "img/yoga/tryang-mukha-pascimottanasana.webp"
+    },
+    {
+      "front": "Ваджрасана",
+      "back": [
+        "Ваджрасана"
+      ],
+      "note": "Vajrāsana",
+      "image": "img/yoga/vajrasana.webp"
+    },
+    {
+      "front": "Вирасана 1",
+      "back": [
+        "Вирасана 1"
+      ],
+      "note": "Vīrāsana 1",
+      "image": "img/yoga/virasana-1.webp"
+    },
+    {
+      "front": "Вирасана 2",
+      "back": [
+        "Вирасана 2"
+      ],
+      "note": "Vīrāsana 2",
+      "image": "img/yoga/virasana-2.webp"
+    },
+    {
+      "front": "Вирасана 3",
+      "back": [
+        "Вирасана 3"
+      ],
+      "note": "Vīrāsana 3",
+      "image": "img/yoga/virasana-3.webp"
+    },
+    {
+      "front": "Паривритта вирасана",
+      "back": [
+        "Паривритта вирасана"
+      ],
+      "note": "Parivṛtta Vīrāsana",
+      "image": "img/yoga/parivrtta-virasana.webp"
+    },
+    {
+      "front": "Симха мудра",
+      "back": [
+        "Симха мудра"
+      ],
+      "note": "Siṁha Mudrā",
+      "image": "img/yoga/simha-mudra.webp"
+    },
+    {
+      "front": "Вичитра мандукасана",
+      "back": [
+        "Вичитра мандукасана"
+      ],
+      "note": "Vicitra Maṇḍūkāsana",
+      "image": "img/yoga/vicitra-mandukasana.webp"
+    },
+    {
+      "front": "Паривритта мандукасана 1",
+      "back": [
+        "Паривритта мандукасана 1"
+      ],
+      "note": "Parivṛtta Maṇḍūkāsana 1",
+      "image": "img/yoga/parivrtta-mandukasana-1.webp"
+    },
+    {
+      "front": "Паривритта мандукасана 2",
+      "back": [
+        "Паривритта мандукасана 2"
+      ],
+      "note": "Parivṛtta Maṇḍūkāsana 2",
+      "image": "img/yoga/parivrtta-mandukasana-2.webp"
+    },
+    {
+      "front": "Баласана",
+      "back": [
+        "Баласана"
+      ],
+      "note": "Bālāsana",
+      "image": "img/yoga/balasana.webp"
+    },
+    {
+      "front": "Шашанкасана",
+      "back": [
+        "Шашанкасана"
+      ],
+      "note": "Śaśāṅkāsana",
+      "image": "img/yoga/sasankasana.webp"
+    },
+    {
+      "front": "Бхадраваджрасана",
+      "back": [
+        "Бхадраваджрасана"
+      ],
+      "note": "Bhadravajrāsana",
+      "image": "img/yoga/bhadravajrasana.webp"
+    },
+    {
+      "front": "Паривритта ардха баддха падмасана",
+      "back": [
+        "Паривритта ардха баддха падмасана"
+      ],
+      "note": "Parivṛtta Ardha Baddha Padmāsana",
+      "image": "img/yoga/parivrtta-ardha-baddha-padmasana.webp"
+    },
+    {
+      "front": "Ардха падма пашчимоттанасана",
+      "back": [
+        "Ардха падма пашчимоттанасана"
+      ],
+      "note": "Ardha Padma Paścimottānāsana",
+      "image": "img/yoga/ardha-padma-pascimottanasana.webp"
+    },
+    {
+      "front": "Ардха агни стамбха пашчимоттанасанаа",
+      "back": [
+        "Ардха агни стамбха пашчимоттанасанаа"
+      ],
+      "note": "Ardha Agni Stambha Paścimottānāsana",
+      "image": "img/yoga/ardha-agni-stambha-pascimottanasana.webp"
+    },
+    {
+      "front": "Агни стамбхасана",
+      "back": [
+        "Агни стамбхасана",
+        "Поза, усиливающая огонь"
+      ],
+      "note": "Agni Stambhāsana",
+      "image": "img/yoga/agni-stambhasana.webp"
+    },
+    {
+      "front": "Паривритта агни стамбхасана",
+      "back": [
+        "Паривритта агни стамбхасана"
+      ],
+      "note": "Parivṛtta Agni Stambhāsana",
+      "image": "img/yoga/parivrtta-agni-stambhasana.webp"
+    },
+    {
+      "front": "Агни стамбхасана 2",
+      "back": [
+        "Агни стамбхасана 2"
+      ],
+      "note": "Agni Stambhāsana 2",
+      "image": "img/yoga/agni-stambhasana-2.webp"
+    },
+    {
+      "front": "Падмасана",
+      "back": [
+        "Падмасана",
+        "Поза лотоса"
+      ],
+      "note": "Padmāsana",
+      "image": "img/yoga/padmasana.webp"
+    },
+    {
+      "front": "Паривритта падамасана",
+      "back": [
+        "Паривритта падамасана"
+      ],
+      "note": "Parivṛtta Padmāsana",
+      "image": "img/yoga/parivrtta-padmasana.webp"
+    },
+    {
+      "front": "Баддха конасана 1",
+      "back": [
+        "Баддха конасана 1"
+      ],
+      "note": "Baddha Koṇāsana 1",
+      "image": "img/yoga/baddha-konasana-1.webp"
+    },
+    {
+      "front": "Баддха конасана 2",
+      "back": [
+        "Баддха конасана 2"
+      ],
+      "note": "Baddha Koṇāsana 2",
+      "image": "img/yoga/baddha-konasana-2.webp"
+    },
+    {
+      "front": "Упавишта конасана 1",
+      "back": [
+        "Упавишта конасана 1"
+      ],
+      "note": "Upaviṣṭa Koṇāsana 1",
+      "image": "img/yoga/upavista-konasana-1.webp"
+    },
+    {
+      "front": "Упавишта конасана 2",
+      "back": [
+        "Упавишта конасана 2"
+      ],
+      "note": "Upaviṣṭa Koṇāsana 2",
+      "image": "img/yoga/upavista-konasana-2.webp"
+    },
+    {
+      "front": "Курмасана",
+      "back": [
+        "Курмасана"
+      ],
+      "note": "Kūrmāsana",
+      "image": "img/yoga/kurmasana.webp"
+    },
+    {
+      "front": "Урдхва прасарита падоттансана",
+      "back": [
+        "Урдхва прасарита падоттансана"
+      ],
+      "note": "Ūrdhva Prasārita Pādottānāsana",
+      "image": "img/yoga/urdhva-prasarita-padottanasana.webp"
+    },
+    {
+      "front": "Краунчасана 1",
+      "back": [
+        "Краунчасана 1"
+      ],
+      "note": "Krauñcāsana 1",
+      "image": "img/yoga/krauncasana-1.webp"
+    },
+    {
+      "front": "Краунчасана 2",
+      "back": [
+        "Краунчасана 2",
+        "Поза цапли"
+      ],
+      "note": "Krauñcāsana 2",
+      "image": "img/yoga/krauncasana-2.webp"
+    },
+    {
+      "front": "Краунчасана 3",
+      "back": [
+        "Краунчасана 3"
+      ],
+      "note": "Krauñcāsana 3",
+      "image": "img/yoga/krauncasana-3.webp"
+    },
+    {
+      "front": "Паривритта краунчасана",
+      "back": [
+        "Паривритта краунчасана",
+        "Поза скрученной цапли"
+      ],
+      "note": "Parivṛtta Krauñcāsana",
+      "image": "img/yoga/parivrtta-krauncasana.webp"
+    },
+    {
+      "front": "Пурна навасана",
+      "back": [
+        "Пурна навасана"
+      ],
+      "note": "Pūrṇa Nāvāsana",
+      "image": "img/yoga/purna-navasana.webp"
+    },
+    {
+      "front": "Навасана",
+      "back": [
+        "Навасана"
+      ],
+      "note": "Nāvāsana",
+      "image": "img/yoga/navasana.webp"
+    },
+    {
+      "front": "Убхая падангуштхасана",
+      "back": [
+        "Убхая падангуштхасана"
+      ],
+      "note": "Ubhaya Pādāṅguṣṭhāsana",
+      "image": "img/yoga/ubhaya-padangusthasana.webp"
+    },
+    {
+      "front": "Ардха навасана 1",
+      "back": [
+        "Ардха навасана 1"
+      ],
+      "note": "Ardha Nāvāsana 1",
+      "image": "img/yoga/ardha-navasana-1.webp"
+    },
+    {
+      "front": "Ардха навасана 2",
+      "back": [
+        "Ардха навасана 2"
+      ],
+      "note": "Ardha Nāvāsana 2",
+      "image": "img/yoga/ardha-navasana-2.webp"
+    },
+    {
+      "front": "Ардха матсиендрасана",
+      "back": [
+        "Ардха матсиендрасана"
+      ],
+      "note": "Ardha Matsyendrāsana",
+      "image": "img/yoga/ardha-matsyendrasana.webp"
+    },
+    {
+      "front": "Ардха баддха матсиендрасана 1",
+      "back": [
+        "Ардха баддха матсиендрасана 1"
+      ],
+      "note": "Ardha Baddha Matsyendrāsana 1",
+      "image": "img/yoga/ardha-baddha-matsyendrasana-1.webp"
+    },
+    {
+      "front": "Ардха баддха матсиендрасана 2",
+      "back": [
+        "Ардха баддха матсиендрасана 2"
+      ],
+      "note": "Ardha Baddha Matsyendrāsana 2",
+      "image": "img/yoga/ardha-baddha-matsyendrasana-2.webp"
+    },
+    {
+      "front": "Эка пада капотасана",
+      "back": [
+        "Эка пада капотасана"
+      ],
+      "note": "Eka Pāda Kapotāsana",
+      "image": "img/yoga/eka-pada-kapotasana.webp"
+    },
+    {
+      "front": "Ардха хамсасана",
+      "back": [
+        "Ардха хамсасана"
+      ],
+      "note": "Ardha Haṁsāsana",
+      "image": "img/yoga/ardha-hamsasana.webp"
+    },
+    {
+      "front": "Вамадевасана 1",
+      "back": [
+        "Вамадевасана 1"
+      ],
+      "note": "Vāmadevāsana 1",
+      "image": "img/yoga/vamadevasana-1.webp"
+    },
+    {
+      "front": "Вамадевасана 2",
+      "back": [
+        "Вамадевасана 2"
+      ],
+      "note": "Vāmadevāsana 2",
+      "image": "img/yoga/vamadevasana-2.webp"
+    },
+    {
+      "front": "Гомукхасана",
+      "back": [
+        "Гомукхасана",
+        "Поза головы коровы"
+      ],
+      "note": "Gomukhāsana",
+      "image": "img/yoga/gomukhasana.webp"
+    },
+    {
+      "front": "Паривритта гомукхасана",
+      "back": [
+        "Паривритта гомукхасана"
+      ],
+      "note": "Parivṛtta Gomukhāsana",
+      "image": "img/yoga/parivrtta-gomukhasana.webp"
+    },
+    {
+      "front": "Нидханикасана (дыба)",
+      "back": [
+        "Нидханикасана (дыба)"
+      ],
+      "note": "Nidhānikāsana (дыба)",
+      "image": "img/yoga/nidhanikasana.webp"
+    },
+    {
+      "front": "Дви бхуджа вирасана",
+      "back": [
+        "Дви бхуджа вирасана"
+      ],
+      "note": "Dvi Bhuja Vīrāsana",
+      "image": "img/yoga/dvi-bhuja-virasana.webp"
+    },
+    {
+      "front": "Эка пада ширшасана",
+      "back": [
+        "Эка пада ширшасана"
+      ],
+      "note": "Eka Pāda Śīrṣāsana",
+      "image": "img/yoga/eka-pada-sirsasana.webp"
+    },
+    {
+      "front": "Йога дандасана",
+      "back": [
+        "Йога дандасана"
+      ],
+      "note": "Yoga Daṇḍāsana",
+      "image": "img/yoga/yoga-dandasana.webp"
+    },
+    {
+      "front": "Акарна дханурасана",
+      "back": [
+        "Акарна дханурасана"
+      ],
+      "note": "Ākarṇa Dhanurāsana",
+      "image": "img/yoga/akarna-dhanurasana.webp"
+    },
+    {
+      "front": "Сиддхасана",
+      "back": [
+        "Сиддхасана"
+      ],
+      "note": "Siddhāsana",
+      "image": "img/yoga/siddhasana.webp"
+    },
+    {
+      "front": "Сукхасана",
+      "back": [
+        "Сукхасана"
+      ],
+      "note": "Sukhāsana",
+      "image": "img/yoga/sukhasana.webp"
+    },
+    {
+      "front": "Ардха падмасана",
+      "back": [
+        "Ардха падмасана"
+      ],
+      "note": "Ardha Padmāsana",
+      "image": "img/yoga/ardha-padmasana.webp"
+    },
+    {
+      "front": "Супта вирасана",
+      "back": [
+        "Супта вирасана"
+      ],
+      "note": "Supta Vīrāsana",
+      "image": "img/yoga/supta-virasana.webp"
+    },
+    {
+      "front": "Парианкасана 1",
+      "back": [
+        "Парианкасана 1"
+      ],
+      "note": "Paryaṅkāsana 1",
+      "image": "img/yoga/paryankasana-1.webp"
+    },
+    {
+      "front": "Парианкасана 2",
+      "back": [
+        "Парианкасана 2"
+      ],
+      "note": "Paryaṅkāsana 2",
+      "image": "img/yoga/paryankasana-2.webp"
+    },
+    {
+      "front": "Чакрасана",
+      "back": [
+        "Чакрасана"
+      ],
+      "note": "Cakrāsana",
+      "image": "img/yoga/cakrasana.webp"
+    },
+    {
+      "front": "Ардха шалабхасана",
+      "back": [
+        "Ардха шалабхасана"
+      ],
+      "note": "Ardha Śalabhāsana",
+      "image": "img/yoga/ardha-salabhasana.webp"
+    },
+    {
+      "front": "Вичитра шалабхасана",
+      "back": [
+        "Вичитра шалабхасана"
+      ],
+      "note": "Vicitra Śalabhāsana",
+      "image": "img/yoga/vicitra-salabhasana.webp"
+    },
+    {
+      "front": "Шалабхасана",
+      "back": [
+        "Шалабхасана"
+      ],
+      "note": "Śalabhāsana",
+      "image": "img/yoga/salabhasana.webp"
+    },
+    {
+      "front": "Дханурасана",
+      "back": [
+        "Дханурасана",
+        "Поза лука"
+      ],
+      "note": "Dhanurāsana",
+      "image": "img/yoga/dhanurasana.webp"
+    },
+    {
+      "front": "Дханурасана 2",
+      "back": [
+        "Дханурасана 2",
+        "Поза лука"
+      ],
+      "note": "Dhanurāsana 2",
+      "image": "img/yoga/dhanurasana-2.webp"
+    },
+    {
+      "front": "Ардха бхуджангасана",
+      "back": [
+        "Ардха бхуджангасана",
+        "Полукобра, сфинкс"
+      ],
+      "note": "Ardha Bhujaṅgāsana",
+      "image": "img/yoga/ardha-bhujangasana.webp"
+    },
+    {
+      "front": "Бхуджангасана",
+      "back": [
+        "Бхуджангасана"
+      ],
+      "note": "Bhujaṅgāsana",
+      "image": "img/yoga/bhujangasana.webp"
+    },
+    {
+      "front": "Ардха бхекасана",
+      "back": [
+        "Ардха бхекасана"
+      ],
+      "note": "Ardha Bhekāsana",
+      "image": "img/yoga/ardha-bhekasana.webp"
+    },
+    {
+      "front": "Бхекасана",
+      "back": [
+        "Бхекасана"
+      ],
+      "note": "Bhekāsana",
+      "image": "img/yoga/bhekasana.webp"
+    },
+    {
+      "front": "Ардха бхека дханурасана",
+      "back": [
+        "Ардха бхека дханурасана"
+      ],
+      "note": "Ardha Bheka Dhanurāsana",
+      "image": "img/yoga/ardha-bheka-dhanurasana.webp"
+    },
+    {
+      "front": "Супта хаста тадасана",
+      "back": [
+        "Супта хаста тадасана"
+      ],
+      "note": "Supta Hasta Tāḍāsana",
+      "image": "img/yoga/supta-hasta-tadasana.webp"
+    },
+    {
+      "front": "Урдха прасарита падасана 1",
+      "back": [
+        "Урдха прасарита падасана 1"
+      ],
+      "note": "Ūrdhva Prasārita Pādāsana 1",
+      "image": "img/yoga/urdhva-prasarita-padasana-1.webp"
+    },
+    {
+      "front": "Урдха прасарита падасана 2",
+      "back": [
+        "Урдха прасарита падасана 2"
+      ],
+      "note": "Ūrdhva Prasārita Pādāsana 2",
+      "image": "img/yoga/urdhva-prasarita-padasana-2.webp"
+    },
+    {
+      "front": "Супта падангуштасана 1",
+      "back": [
+        "Супта падангуштасана 1"
+      ],
+      "note": "Supta Pādāṅguṣṭhāsana 1",
+      "image": "img/yoga/supta-padangusthasana-1.webp"
+    },
+    {
+      "front": "Урдхва ардха агнистамбха пашчиммотанасана",
+      "back": [
+        "Урдхва ардха агнистамбха пашчиммотанасана"
+      ],
+      "note": "Ūrdhva Ardha Agnistambha Paścimottānāsana",
+      "image": "img/yoga/urdhva-ardha-agnistambha-pascimottanasana.webp"
+    },
+    {
+      "front": "Ардха навасана",
+      "back": [
+        "Ардха навасана"
+      ],
+      "note": "Ardha Nāvāsana",
+      "image": "img/yoga/ardha-navasana.webp"
+    },
+    {
+      "front": "Уттана падасана",
+      "back": [
+        "Уттана падасана"
+      ],
+      "note": "Uttāna Pādāsana",
+      "image": "img/yoga/uttana-padasana.webp"
+    },
+    {
+      "front": "Джатхара паривартанасана",
+      "back": [
+        "Джатхара паривартанасана"
+      ],
+      "note": "Jaṭhara Parivartanāsana",
+      "image": "img/yoga/jathara-parivartanasana.webp"
+    },
+    {
+      "front": "Супта матсиедрасана",
+      "back": [
+        "Супта матсиедрасана"
+      ],
+      "note": "Supta Matsyendrāsana",
+      "image": "img/yoga/supta-matsyendrasana.webp"
+    },
+    {
+      "front": "Супта паривритта гарудасана",
+      "back": [
+        "Супта паривритта гарудасана"
+      ],
+      "note": "Supta Parivṛtta Garuḍāsana",
+      "image": "img/yoga/supta-parivrtta-garudasana.webp"
+    },
+    {
+      "front": "Сампурна паривриттасана",
+      "back": [
+        "Сампурна паривриттасана"
+      ],
+      "note": "Sampūrṇa Parivṛttāsana",
+      "image": "img/yoga/sampurna-parivrttasana.webp"
+    },
+    {
+      "front": "Супта падангуштасана 2",
+      "back": [
+        "Супта падангуштасана 2"
+      ],
+      "note": "Supta Pādāṅguṣṭhāsana 2",
+      "image": "img/yoga/supta-padangusthasana-2.webp"
+    },
+    {
+      "front": "Супта паривритта падангуштасана",
+      "back": [
+        "Супта паривритта падангуштасана"
+      ],
+      "note": "Supta Parivṛtta Pādāṅguṣṭhāsana",
+      "image": "img/yoga/supta-parivrtta-padangusthasana.webp"
+    },
+    {
+      "front": "Эка бхуджа свастикасана 1",
+      "back": [
+        "Эка бхуджа свастикасана 1"
+      ],
+      "note": "Eka Bhuja Svastikāsana 1",
+      "image": "img/yoga/eka-bhuja-svastikasana-1.webp"
+    },
+    {
+      "front": "Эка бхуджа капотасана",
+      "back": [
+        "Эка бхуджа капотасана"
+      ],
+      "note": "Eka Bhuja Kapotāsana",
+      "image": "img/yoga/eka-bhuja-kapotasana.webp"
+    },
+    {
+      "front": "Ананда баласана",
+      "back": [
+        "Ананда баласана"
+      ],
+      "note": "Ānanda Bālāsana",
+      "image": "img/yoga/ananda-balasana.webp"
+    },
+    {
+      "front": "Карна пидасана",
+      "back": [
+        "Карна пидасана"
+      ],
+      "note": "Karṇa Pīḍāsana",
+      "image": "img/yoga/karna-pidasana.webp"
+    },
+    {
+      "front": "Випарита дханурасана",
+      "back": [
+        "Випарита дханурасана"
+      ],
+      "note": "Viparīta Dhanurāsana",
+      "image": "img/yoga/viparita-dhanurasana.webp"
+    },
+    {
+      "front": "Халасана",
+      "back": [
+        "Халасана"
+      ],
+      "note": "Halāsana",
+      "image": "img/yoga/halasana.webp"
+    },
+    {
+      "front": "Макарасана",
+      "back": [
+        "Макарасана"
+      ],
+      "note": "Makarāsana",
+      "image": "img/yoga/makarasana.webp"
+    },
+    {
+      "front": "Шава мудра",
+      "back": [
+        "Шава мудра"
+      ],
+      "note": "Śava Mudrā",
+      "image": "img/yoga/sava-mudra.webp"
+    },
+    {
+      "front": "Шавасана",
+      "back": [
+        "Шавасана"
+      ],
+      "note": "Śavāsana",
+      "image": "img/yoga/savasana.webp"
     }
   ],
-  "start": 64
+  "start": 69
 }
