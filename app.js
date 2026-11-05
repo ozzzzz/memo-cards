@@ -83,7 +83,7 @@ async function showDeck(id) {
           ...[card.back].flat().map((text, i) => textEl(text, i === 0 ? "main" : "main sub")),
           card.note ? textEl(card.note, "note") : null,
         ]
-      : [card.image ? photoEl(card) : textEl(card.front, "main")];
+      : [card.image ? photoEl(card) : textEl(card.front, "main"), card.example ? textEl(card.example, "example") : null];
 
     app.replaceChildren(
       el(
